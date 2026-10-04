@@ -104,7 +104,7 @@ Một căn nhà mới có:
 * `Bedrooms` = 3
 * `Age` = 8 năm
 
-Tạo vector $X_{\text{new}} = [1, 80, 3, 8]$ và tính giá trị dự đoán $$\hat{Y}_{\text{new}} = X_{\text{new}}\beta$$.
+Tạo vector $X_{\text{new}} = [1, 80, 3, 8]$ và tính giá trị dự đoán $\hat{Y}_{\text{new}} = X_{\text{new}}\beta$.
 
 ### Bước 9 — Câu hỏi củng cố hiểu bài
 1. $\beta_1$ có ý nghĩa gì?
